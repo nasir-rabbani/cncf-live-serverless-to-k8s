@@ -100,4 +100,8 @@
 1. Knative (https://knative.dev/docs/)
 2. OpenFaaS (https://docs.openfaas.com/)
 
-#### IaC Vs IfC
+## IaC Vs IfC
+
+IaC : Infrastructure as Code
+
+IfC : Infrastructure from Code (Source Code)
